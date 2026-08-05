@@ -10,7 +10,7 @@ body{
 }
 
 .section-title h2 {
-    font-size: clamp(2.5rem, 5vw, 4rem);
+    font-size: clamp(1.5rem, 2rem, 3rem);
     margin: 1.3rem 0 .8rem;
     color: #133fa6;
     font-weight: 800;
