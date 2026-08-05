@@ -28,12 +28,14 @@
 
 .Architechure-bio {
     flex: 1;
-    min-width: 300px;
+    width: 100%;
+    max-width:320px;
 }
 
 .Architechure-bio h2 {
     font-size: clamp(1.5rem, 2rem, 3rem);
     margin-bottom: 20px;
+    text-align:center;
     /* color: #612d75; */
     color: #cbb4d4;
 }
